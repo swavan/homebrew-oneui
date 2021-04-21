@@ -1,4 +1,4 @@
-class SwaVan < Formula
+class Oneui < Formula
   desc "SwaVan is a desktop application for data mocking"
   homepage "https://swavan.io"
   url "https://github.com/swavan/oneui/archive/refs/tags/v0.0.2.tar.gz"
