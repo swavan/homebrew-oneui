@@ -6,7 +6,7 @@ class Oneui < Formula
   license "https://github.com/swavan/oneui/blob/master/LICENSE"
 
   def install
-    system "tar -zxvf *"
+    system "tar -zxvf *oneui-0.0.2.tar.gz"
     bin.install "oneui-0.0.2"
   end
 
